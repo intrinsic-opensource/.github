@@ -2,7 +2,7 @@
 
 Welcome to the Intrinsic Innovation Open Source Organization. This organization is set up to host a selection of open source projects from Intrinsic.
 
-This is a small part of our larger open source contributions. We were a [founding member](https://www.intrinsic.ai/blog/posts/supporting-the-open-source-robotics-alliance) of the [Open Source Robotics Alliance](http://osralliance.org) and we actively encourage contributions upstream to open source projects as well as making contributions at all levels of various open source projects that include: 
+This is a small part of our larger open source contributions. We are a [founding member](https://www.intrinsic.ai/blog/posts/supporting-the-open-source-robotics-alliance) of the [Open Source Robotics Alliance](http://osralliance.org) and we actively encourage contributions upstream to open source projects as well as making contributions at all levels of various open source projects that include: 
 
 * ROS ([ros.org](http://ros.org))  
 * Gazebo ([gazebosim.org](http://gazebosim.org))  
